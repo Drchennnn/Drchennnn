@@ -6,15 +6,15 @@
 
 ---
 
-### 🧑‍💻 About Me
+<img align="right" src="喜多2.gif" width="150"/>
 
+### 🧑‍💻 About Me
 - 🔭 Currently building AI agents and exploring LLM-based automation
 - 🛡️ Interested in reverse engineering, binary analysis, and cybersecurity
 - 🌱 Learning more about distributed systems and low-level programming
 - 🖥️ Daily driver: VSCode on Linux, IDA Pro for RE work
 - 📍 Based in China | Open to remote collaboration
 - 📫 Reach me: **drchennnnn@outlook.com**
-
 ---
 
 ### 🛠️ Tech Stack
