@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" src="喜多2.gif" width="150"/>
+<img align="right" src="喜多2.webp" width="150"/>
 
 ### 🧑‍💻 About Me
 - 🔭 Currently building AI agents and exploring LLM-based automation
