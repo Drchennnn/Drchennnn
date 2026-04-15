@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Drchennnn
 
-<!--
-**Drchennnn/Drchennnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend dev · AI agent builder · Reverse engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drchennnn&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+📮 drchennnnn@outlook.com &nbsp;·&nbsp; 📺 [Bilibili](https://space.bilibili.com/32234091)
