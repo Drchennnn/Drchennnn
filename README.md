@@ -42,9 +42,13 @@
 ---
 
 <div align="center">
+  <img src="./11月25日.webp" width="200" />
 
-📺 [Bilibili](https://space.bilibili.com/32234091) &nbsp;·&nbsp; 📮 drchennnnn@outlook.com
+  <br/>
 
-<img src="https://raw.githubusercontent.com/Drchennnn/Drchennnn/output/github-contribution-grid-snake-dark.svg" />
+  📺 [Bilibili](https://space.bilibili.com/32234091) &nbsp;·&nbsp; 📮 drchennnnn@outlook.com
 
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/Drchennnn/Drchennnn/output/github-contribution-grid-snake-dark.svg" />
 </div>
