@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- 打字机动效标题 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Drchennnn+%F0%9F%91%8B;Backend+Dev+%7C+AI+Agent+Builder;Reverse+Engineering+Enthusiast)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Drchennnn&color=00ADD8&style=flat-square&label=Profile+Views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Drchennnn+👋;Backend+Dev+|+AI+Agent+Builder;Reverse+Engineering+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,32 +41,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Drchennnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drchennnn&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drchennnn&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Drchennnn&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 <div align="center">
 
 📺 [Bilibili](https://space.bilibili.com/32234091) &nbsp;·&nbsp; 📮 drchennnnn@outlook.com
 
-<!-- 贡献蛇动画 -->
 <img src="https://raw.githubusercontent.com/Drchennnn/Drchennnn/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
