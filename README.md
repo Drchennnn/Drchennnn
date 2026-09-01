@@ -15,7 +15,7 @@
 - 🌱 Learning more about distributed systems and low-level programming
 - 🖥️ Daily driver: VSCode on Linux, IDA Pro for RE work
 - 📍 Based in China | Open to remote collaboration
-- 📫 Reach me: **drchennnnn@outlook.com**
+- 📫 Reach me: **Benyichen2-c@my.cityu.edu.hk**
 ---
 
 ### 🛠️ Tech Stack
