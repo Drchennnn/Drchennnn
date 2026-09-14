@@ -8,13 +8,11 @@
 
 ---
 
-<img align="right" src="喜多2.webp" width="150"/>
-
 ### 🧑‍💻 About Me
 
 I'm an Agent Development Engineer who is genuinely committed to learning and building.
 
-My main interests include backend development, AI agents, and LLM-based automation. I also enjoy exploring reverse engineering, binary analysis, and low-level systems. Most of my learning comes from building practical projects, experimenting with new ideas, and continuously improving through hands-on work.
+My main interests include backend development, AI agents, and LLM-based automation. 
 
 📍 Based in China · Open to remote collaboration  
 📫 Benyichen2-c@my.cityu.edu.hk
