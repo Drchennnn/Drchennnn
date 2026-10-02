@@ -24,5 +24,5 @@ Find me here:
 </picture>
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@:Drchennnn" alt="Drchennnn profile views" />
+  <img src="https://count.getloli.com/@Drchennnn?theme=moebooru" alt="Drchennnn profile views" />
 </div>
