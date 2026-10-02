@@ -1,34 +1,24 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:a100ff&height=150&section=header"/>
+# 🎉 Hey there, I'm Drchennnn!
+
+<br>
+
+<img align="right" src="https://raw.githubusercontent.com/Drchennnn/Drchennnn/main/11%E6%9C%8825%E6%97%A5.webp" alt="Profile illustration" width="200" />
+
+I'm an Agent Development Engineer who enjoys learning and building.
+
+I focus on backend development, AI agents, and LLM-based automation, with an interest in reverse engineering.
+
+📍 Based in China · Open to remote collaboration
+
+Find me here:
+
+- 📺 **Bilibili**: [space.bilibili.com/32234091](https://space.bilibili.com/32234091)
+
+- 📧 **Mail**: [Benyichen2-c@my.cityu.edu.hk](mailto:Benyichen2-c@my.cityu.edu.hk)
+
+<br clear="both">
+<br>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Drchennnn+👋;Backend+Dev+%7C+AI+Agent+Builder;Reverse+Engineering+Enthusiast)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### 🧑‍💻 About Me
-
-I'm an Agent Development Engineer who is genuinely committed to learning and building.
-
-My main interests include backend development, AI agents, and LLM-based automation. 
-
-📍 Based in China · Open to remote collaboration  
-📫 Benyichen2-c@my.cityu.edu.hk
-
----
-
-<div align="center">
-
-<img src="./11月25日.webp" width="200"/>
-
-<br/>
-
-📺 [Bilibili](https://space.bilibili.com/32234091) &nbsp;·&nbsp; 📮 Benyichen2-c@my.cityu.edu.hk
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Drchennnn/Drchennnn/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/Drchennnn/Drchennnn/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 </div>
