@@ -19,6 +19,10 @@ Find me here:
 <br clear="both">
 <br>
 
+<picture>
+  <img src="https://raw.githubusercontent.com/Drchennnn/Drchennnn/main/github-metrics.svg" alt="Drchennnn's GitHub metrics" />
+</picture>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Drchennnn/Drchennnn/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+  <img src="https://count.getloli.com/get/@:Drchennnn" alt="Drchennnn profile views" />
 </div>
