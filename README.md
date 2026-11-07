@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/p3r/header.svg" alt="Link Reload — ocean-blue profile banner" width="1200" />
+</p>
+
 # 🎉 Hey there, I'm Link!
 
 <br>
@@ -19,9 +23,17 @@ Find me here:
 <br clear="both">
 <br>
 
+<br>
+
+<img src="./assets/p3r/activity.svg" alt="02 / ACTIVITY" width="840" />
+
 <picture>
   <img src="https://raw.githubusercontent.com/Drchennnn/Drchennnn/main/github-metrics.svg" alt="Drchennnn's GitHub metrics" />
 </picture>
+
+<br>
+
+<img src="./assets/p3r/visitors.svg" alt="03 / VISITORS" width="840" />
 
 <div align="center">
   <img src="https://count.getloli.com/@Drchennnn?theme=moebooru" alt="Drchennnn profile views" />
