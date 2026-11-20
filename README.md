@@ -12,7 +12,7 @@ I'm an Agent Development Engineer who enjoys learning and building.
 
 I focus on backend development, AI agents, and LLM-based automation, with an interest in reverse engineering.
 
-📍 Based in China · Open to remote collaboration
+📍 Based in Hong Kong · Open to remote collaboration
 
 Find me here:
 
